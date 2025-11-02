@@ -1,6 +1,6 @@
 AutoObjId - Godot Editor Plugin
 
-Automatically assign sequential ObjID values to selected objects with spatial ordering.
+Automatically assign sequential Obj Id values to selected objects with spatial ordering.
 
 
 Key Features:
